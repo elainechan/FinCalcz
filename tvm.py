@@ -1,6 +1,6 @@
 def tvm():
 	"""
-	Concepts from CFA Level I Time Value of Money:
+	Time Value of Money Formulae:
 		PV: pv_f, pv_perp
 		FV 
 		EAR
